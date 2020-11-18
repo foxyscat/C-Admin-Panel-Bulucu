@@ -1,0 +1,10 @@
+C:\Users\izgiler\source\repos\PanelTarayıcı\PanelTarayıcı\obj\Debug\PanelTarayıcı.csprojAssemblyReference.cache
+C:\Users\izgiler\source\repos\PanelTarayıcı\PanelTarayıcı\obj\Debug\PanelTarayıcı.Form1.resources
+C:\Users\izgiler\source\repos\PanelTarayıcı\PanelTarayıcı\obj\Debug\PanelTarayıcı.Properties.Resources.resources
+C:\Users\izgiler\source\repos\PanelTarayıcı\PanelTarayıcı\obj\Debug\PanelTarayıcı.csproj.GenerateResource.cache
+C:\Users\izgiler\source\repos\PanelTarayıcı\PanelTarayıcı\obj\Debug\PanelTarayıcı.csproj.CoreCompileInputs.cache
+C:\Users\izgiler\source\repos\PanelTarayıcı\PanelTarayıcı\bin\Debug\PanelTarayıcı.exe.config
+C:\Users\izgiler\source\repos\PanelTarayıcı\PanelTarayıcı\bin\Debug\PanelTarayıcı.exe
+C:\Users\izgiler\source\repos\PanelTarayıcı\PanelTarayıcı\bin\Debug\PanelTarayıcı.pdb
+C:\Users\izgiler\source\repos\PanelTarayıcı\PanelTarayıcı\obj\Debug\PanelTarayıcı.exe
+C:\Users\izgiler\source\repos\PanelTarayıcı\PanelTarayıcı\obj\Debug\PanelTarayıcı.pdb
